@@ -5,4 +5,5 @@ The game have a score that increase with the number of asteroids avoided. It bec
 The aim of this game is to beat the best highscore, that will be memorized in EEPROM arduino memory.
 
 HOW TO PLAY
+
 Move your spaceship with the joystick and avoid all the asteroids
