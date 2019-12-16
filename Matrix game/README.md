@@ -7,3 +7,19 @@ The aim of this game is to beat the best highscore, that will be memorized in EE
 HOW TO PLAY
 
 Move your spaceship with the joystick and avoid all the asteroids
+
+HARDWARE COMPONENTS:
+a. 1 * 8x8 LED matrix
+b. 1 * LCD
+c. 1 * Joystick
+d. 1 * MAX7219 Driver
+e. 1 * Potentiometer
+f. 1 * Passive buzzer
+g. Wires
+h. Resistors
+i. Arduino
+j. Connector cable
+k. 1 * Breadbord
+l. 2 * Mini breadbords
+m. 1 * 104 ceramic capacitor
+n. 1 * 10UF 50V
