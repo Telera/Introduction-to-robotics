@@ -37,3 +37,6 @@ l. 2 * Mini breadbords
 m. 1 * 104 ceramic capacitor
 
 n. 1 * 10UF 50V
+
+Hardware picture: https://www.dropbox.com/s/491uynqzf8cwgma/IMG_20191221_151604.jpg?dl=0
+Video link (game is faster to make the video shorter) : https://www.youtube.com/watch?v=VXEIm7HBYcY
