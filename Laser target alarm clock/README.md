@@ -20,6 +20,9 @@ If you want to change the time, when you're in the clock screen, you have to cli
 *(Unfortunately I didn't take a better picture and now I'm in Italy and I don't have my alarm anymore)*
 
 
+**FULL LASER TARGER ALARM CLOCK**: https://www.dropbox.com/s/ccmmxzuyvw5ww8i/IMG_20200222_004211.jpg?dl=0
+
+
 **TUTORIAL LINK** : https://create.arduino.cc/projecthub/electropeak/interfacing-ds1307-rtc-module-with-arduino-make-a-reminder-08cb61
 
 *(I've followed this tutorial for the clock module)*
