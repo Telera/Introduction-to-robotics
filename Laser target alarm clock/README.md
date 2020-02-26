@@ -11,12 +11,17 @@ If you want to change the time, when you're in the clock screen, you have to cli
 
 **DEMO VIDEO**: 
 
+
 **LINK BOM**: https://docs.google.com/spreadsheets/d/1Htry010sDG5Vxl1XxuDkIDsEU6a6pIBbHVVmY9l-o_E/edit#gid=1652328878
 
+
 **HARDWARE PICTURE**: https://www.dropbox.com/s/brw7jsd6on8daj6/IMG_20200222_011031.jpg?dl=0 
+
 *(Unfortunately I didn't take a better picture and now I'm in Italy and I don't have my alarm anymore)*
 
+
 **TUTORIAL LINK** : https://create.arduino.cc/projecthub/electropeak/interfacing-ds1307-rtc-module-with-arduino-make-a-reminder-08cb61
+
 *(I've followed this tutorial for the clock module)*
 
 
