@@ -10,10 +10,16 @@ This alarm has two screens: ***clock screen*** and ***alarm screen***.
 If you want to change the time, when you're in the clock screen, you have to click the *set* button and follow the procedure. If you want to change the alarm, you have to first click on the *Alarm* button and then click the *set* button and follow the procedure. Once set the alarm you have to click on the *+* or *-* button to set the alarm status on ON (to change the alarm status to OFF you have to click again one of the two buttons *+* or *-*). The status of the alarm is shown on the top-right corner of the lcd screen.
 
 **DEMO VIDEO**: 
+
 **LINK BOM**: https://docs.google.com/spreadsheets/d/1Htry010sDG5Vxl1XxuDkIDsEU6a6pIBbHVVmY9l-o_E/edit#gid=1652328878
+
 **HARDWARE PICTURE**: https://www.dropbox.com/s/brw7jsd6on8daj6/IMG_20200222_011031.jpg?dl=0 
+
 *(Unfortunately I didn't take a better picture and now I'm in Italy and I don't have my alarm anymore)*
+
+
 **TUTORIAL LINK** : https://create.arduino.cc/projecthub/electropeak/interfacing-ds1307-rtc-module-with-arduino-make-a-reminder-08cb61
+
 *(I've followed this tutorial for the clock module)*
 
 
